@@ -1,7 +1,9 @@
 {
   "expo": {
+    "id":"a8d988c8-eea2-4f8d-a8c9-234a3db1c263",
     "name": "firstmobile",
-    "slug": "firstmobile",
+    "slug": "patika-store",
+    "owner": "alperenatik",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
